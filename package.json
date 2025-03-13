@@ -1,0 +1,22 @@
+{
+  "name": "Porry's Shared API",
+  "version": "1.0.0",
+  "description": "https://discord.gg/zzJEfMBTR2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "4.1.2",
+    "discord.js-selfbot-v13": "^3.6.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "fs": "0.0.1-security"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [],
+  "author": "Porry",
+  "license": "MIT"
+}
