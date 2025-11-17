@@ -115,4 +115,4 @@ GET http://localhost:3000/JobId/fullmoon
 
 ## 💖 Credits
 Made with ❤️ by **Porry**.  
-Join our community: [Discord Server](https://discord.gg/zzJEfMBTR2).
+Join our community: [Discord Server](https://discord.gg/zzJEfMBTR2).# Api
